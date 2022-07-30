@@ -22,5 +22,3 @@
 
 运行`src/ChangeSysTest.java`，根据控制台提示完成操作。
 
-韩顺平 零基础30天学会Java
-
